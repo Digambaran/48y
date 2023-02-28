@@ -1,0 +1,9 @@
+{
+  "name": "48y",
+  "type": "package",
+  "blockId": "33UO7CDSWP7TdGue5tmik",
+  "source": {
+    "https": "https://github.com/Digambaran/48y",
+    "ssh": "git@github.com:Digambaran/48y.git"
+  }
+}
